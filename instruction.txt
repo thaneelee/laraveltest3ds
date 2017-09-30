@@ -1,0 +1,20 @@
+
+
+1. Install laravel installer
+# sudo composer global require "laravel/installer"
+
+2. Create laravel project
+# composer create-project --prefer-dist laravel/laravel app
+
+3. Create git and push project into git
+
+4. Init git
+# git init
+# git add .
+# git commit -m "First commit"
+# git remote add origin git@github.com:pong3ds/my-automate-project1.git
+# git push -u origin master
+
+5. Add git to source tree and init git flow
+
+6. Start new feature called automate_test
